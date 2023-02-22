@@ -17,6 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GUI applications over Container!](https://rishiagrawal2609.medium.com/gui-applications-over-container-e6dd6f90b0fc?source=rss-7674d5022296------2)
+- [Machine Learning on Containers!](https://medium.com/analytics-vidhya/machine-learning-on-containers-a27ec5288526?source=rss-7674d5022296------2)
+- [To run Python interpreter/code over the Docker container](https://rishiagrawal2609.medium.com/to-run-python-interpreter-code-over-the-docker-container-7562bb455f2f?source=rss-7674d5022296------2)
+- [Setting up HTTPD server over a Docker container](https://rishiagrawal2609.medium.com/setting-up-httpd-server-over-a-docker-container-a841663007a9?source=rss-7674d5022296------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
