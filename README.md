@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://rishiagrawal2609.medium.com/](https://rishiagrawal2609.medium.com/)
 
-- 💬 Ask me about **Cloud, DevOps, BigData, Work, Adventure**
+- 💬 Ask me about **Cloud, DevOps, BigData, ML, Community, Tech and Adventure**
 
 - 📫 How to reach me **rishiagrawal2609@gmail.com**
 
