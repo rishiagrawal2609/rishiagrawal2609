@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rishi Agrawal</h1>
-<h3 align="center">I am Cloud DevOps Engineer | ML Engineer | Certified RHCE</h3>
+<h3 align="center">I am Cloud DevOps Engineer | Customer Success | ML Engineer | Certified RHCE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiagrawal2609&label=Profile%20views&color=0e75b6&style=flat" alt="rishiagrawal2609" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rishiagrawal26" target="blank"><img src="https://img.shields.io/twitter/follow/rishiagrawal26?logo=twitter&style=for-the-badge" alt="rishiagrawal26" /></a> </p>
 
-- 🔭 I’m currently [Engineering Trainee Intern @corestacklabs](https://discover.corestack.io)
+- 🔭 I’m currently [Associate Product Specialist @corestacklabs](https://discover.corestack.io)
+
+- 😎 Part Hybrid-Multi-Cloud Enginner and Part Customer Success
 
 - 👨‍💻 All of my projects are available at [https://rishiagrawal2609.github.io/](https://rishiagrawal2609.github.io/)
 
