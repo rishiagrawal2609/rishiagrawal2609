@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Agrawal</h1>
-<h3 align="center">I am Cloud DevOps Engineer | Customer Success | ML Engineer | Certified RHCE</h3>
+<h3 align="center">I am Cloud DevOps Engineer | Customer Success | ML Engineer | Certified RHCSA,RHCE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiagrawal2609&label=Profile%20views&color=0e75b6&style=flat" alt="rishiagrawal2609" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently [Associate Product Specialist @corestacklabs](https://discover.corestack.io)
 
-- 😎 Part Hybrid-Multi-Cloud Enginner and Part Customer Success
+- 😎 Hybrid-Multi-Cloud Engineer, AI Developer and Problem Solver
 
 - 👨‍💻 All of my projects are available at [https://rishiagrawal2609.github.io/](https://rishiagrawal2609.github.io/)
 
 - 📝 I regularly write articles on [https://rishiagrawal2609.medium.com/](https://rishiagrawal2609.medium.com/)
 
-- 💬 Ask me about **Cloud, DevOps, BigData, ML, Community, Tech and Adventure**
+- 💬 Ask me about **Cloud, DevOps, BigData, AI, LLMs, RAG, ML, Community, Tech and Adventure**
 
 - 📫 How to reach me **rishiagrawal2609@gmail.com**
 
