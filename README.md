@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Agrawal</h1>
-<h3 align="center">I am Gen AI Engineer | Community Leader | Cloud/DevOps Engineer | Certified RHCSA,RHCE</h3>
+<h3 align="center">I am SDE - Backend and AI | Community Leader | Cloud/DevOps Engineer | Certified RHCSA,RHCE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiagrawal2609&label=Profile%20views&color=0e75b6&style=flat" alt="rishiagrawal2609" /> </p>
 
