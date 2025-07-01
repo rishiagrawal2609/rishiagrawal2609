@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rishiagrawal26" target="blank"><img src="https://img.shields.io/twitter/follow/rishiagrawal26?logo=twitter&style=for-the-badge" alt="rishiagrawal26" /></a> </p>
 
-- 🔭 I’m currently [Associate Product Specialist @corestacklabs](https://discover.corestack.io)
+- 🔭 I’m currently [Product Specialist @corestacklabs](https://discover.corestack.io)
 
 - 😎  Gen AI Engineer, Hybrid-Multi-Cloud Engineer, Problem Solver, Support Specialist and a Leader with the passion for buliding communities.
 
