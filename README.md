@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://rishiagrawal2609.github.io/](https://rishiagrawal2609.github.io/)
 
-- 📝 I regularly write articles on [https://rishiagrawal2609.medium.com/](https://rishiagrawal2609.medium.com/)
-
 - 💬 Ask me about **Cloud, DevOps, BigData, AI, LLMs, RAG, ML, AI Agents, MERN, Community, Tech and Adventure**
 
 - 📫 How to reach me **rishiagrawal2609@gmail.com**
