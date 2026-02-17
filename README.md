@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rishi Agrawal</h1>
-<h3 align="center">I am SDE - Backend and AI | Community Leader | Cloud/DevOps Engineer | Certified RHCSA,RHCE</h3>
+<h3 align="center">I am Developer Advocate | Community Leader | Cloud/DevOps Engineer | Certified RHCSA,RHCE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiagrawal2609&label=Profile%20views&color=0e75b6&style=flat" alt="rishiagrawal2609" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rishiagrawal26" target="blank"><img src="https://img.shields.io/twitter/follow/rishiagrawal26?logo=twitter&style=for-the-badge" alt="rishiagrawal26" /></a> </p>
 
-- 🔭 I’m currently [Product Specialist @corestacklabs](https://discover.corestack.io)
+- 🔭 I’m currently [Developer Advocate @MongoDB](https://www.mongodb.com/)
 
 - 😎  Gen AI Engineer, Hybrid-Multi-Cloud Engineer, Problem Solver, Support Specialist and a Leader with the passion for buliding communities.
 
 - 👨‍💻 All of my projects are available at [https://rishiagrawal2609.github.io/](https://rishiagrawal2609.github.io/)
 
-- 💬 Ask me about **Cloud, DevOps, BigData, AI, LLMs, RAG, ML, AI Agents, MERN, Community, Tech and Adventure**
+- 💬 Ask me about **MongoDB, Data, Cloud, DevOps, BigData, AI, LLMs, RAG, ML, AI Agents, MERN, Community, Tech and Adventure**
 
 - 📫 How to reach me **rishiagrawal2609@gmail.com**
 
